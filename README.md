@@ -1,11 +1,3 @@
-<h1 data-importer="text" align="center">👨‍💻 José Vitor - Desktop</h1>
-
-###
-
-<h6 data-importer="text" align="center">Análise e Desenvolvimento de Sistemas</h6>
-
-###
-
 <div data-importer="socials" align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
@@ -15,7 +7,15 @@
 
 ###
 
-<p data-importer="text" align="center">Atualmente sou aluno da UniGrande. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Procuro as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.</p>
+<h1 data-importer="text" align="center">👨‍💻 José Vitor - Desktop</h1>
+
+###
+
+<h6 data-importer="text" align="center">Análise e Desenvolvimento de Sistemas</h6>
+
+###
+
+<p data-importer="text" align="left">Atualmente sou aluno da UniGrande. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Procuro as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.</p>
 
 ###
 
