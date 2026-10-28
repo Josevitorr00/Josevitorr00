@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">Análise e Desenvolvimento de Sistemas</p>
+<h6 data-importer="text" align="center">Análise e Desenvolvimento de Sistemas</h6>
 
 ###
 
@@ -15,7 +15,7 @@
 
 ###
 
-<h6 data-importer="text" align="center">Atualmente sou aluno da UniGrande. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Procuro as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.</h6>
+<p data-importer="text" align="center">Atualmente sou aluno da UniGrande. Tenho interesse na área de programação e busco aprender cada vez mais para desenvolver minhas habilidades. Sou uma pessoa dedicada, responsável e comprometida com aquilo que faço. Procuro as oportunidades para aprender, evoluir e me desenvolver, tanto profissionalmente quanto pessoalmente.</p>
 
 ###
 
